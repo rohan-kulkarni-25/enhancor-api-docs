@@ -5,7 +5,8 @@ Official API documentation for Enhancor AI - Portrait and Image Enhancement API
 ## Available APIs
 
 - **[Realistic Skin Enhancement API](#realistic-skin-enhancement-api)** - Advanced portrait enhancement with skin refinement
-- **[Image Upscaler API](IMAGE_UPSCALER.md)** - Portrait upscaling with facial feature optimization
+- **[Portrait Upscaler API](IMAGE_UPSCALER.md)** - Portrait upscaling with facial feature optimization (Fast/Professional modes)
+- **[General Image Upscaler API](GENERAL_UPSCALER.md)** - Universal image upscaling for all image types
 
 ---
 
